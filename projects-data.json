@@ -1,0 +1,20 @@
+[
+  {
+    "id": "minesweeper",
+    "name": "Minesweeper",
+    "title": "Minesweeper",
+    "desc": "Coding Academy first sprint",
+    "url": "https://aviv-yaari.github.io/minesweeper/",
+    "publishedAt": 1626901200000,
+    "labels": ["Matrixes", "Keyboard Events", "Games", "Firebase"]
+  },
+  {
+    "id": "todos",
+    "name": "Todos",
+    "title": "Todos",
+    "desc": "MVC CRUD Exercise",
+    "url": "https://aviv-yaari.github.io/Vanilla-Todos/",
+    "publishedAt": 1627419600000,
+    "labels": ["CRUD", "Filter", "Sort", "Todos"]
+  }
+]
